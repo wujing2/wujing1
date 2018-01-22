@@ -1,0 +1,5 @@
+username,passwd,repasswd,email
+'xiaoming','123456','123456','xm@1234.com'
+'','123456','123456','xm@1234.com'
+'xiaoming','','123456','xm@1234.com'
+'xiaoming','123456','','xm@1234.com'
